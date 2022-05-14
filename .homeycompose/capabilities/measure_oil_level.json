@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Oil-level",
-    "nl": "Olieniveau"
+    "nl": "Olieniveau",
+    "sv": "Oljenivå"
   },
   "units": {
     "en": "%",
-    "nl": "%"
+    "nl": "%",
+    "sv": "%"
   },
   "insights": true,
   "desc": {
     "en": "Oil-level in %",
     "nl": "Olieniveau in %"
+    "sv": "Oljenivå i %"
   },
   "chartType": "spline",
   "decimals": 2,
