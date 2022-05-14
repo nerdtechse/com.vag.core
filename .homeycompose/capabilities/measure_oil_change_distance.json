@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Oil change",
-    "nl": "Olie verversen"
+    "nl": "Olie verversen",
+    "sv": "Oljebyte"
   },
   "units": {
     "en": "KM",
-    "nl": "KM"
+    "nl": "KM",
+    "sv": "KM"
   },
   "insights": true,
   "desc": {
     "en": "Oil change in KM",
-    "nl": "Olie verversen in KM"
+    "nl": "Olie verversen in KM",
+    "sv": "Oljebyte om KM"
   },
   "chartType": "spline",
   "decimals": 2,
