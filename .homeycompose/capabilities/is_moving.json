@@ -2,7 +2,8 @@
   "type": "boolean",
   "title": {
     "en": "Is vehicle moving",
-    "nl": "Voertuig in beweging"
+    "nl": "Voertuig in beweging",
+    "sv": "Är fordonet i rörelse"
   },
   "getable": true,
   "setable": false,
