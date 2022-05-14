@@ -3,7 +3,8 @@
   "type": "boolean",
   "title": {
     "en": "Start/Stop Flash",
-    "nl": "Start/Stop Flits"
+    "nl": "Start/Stop Flits",
+    "sv": "Starta/Stoppa Blinkande"
   },
   "getable": true,
   "setable": true,
