@@ -4,7 +4,7 @@
   "title": {
     "en": "Remaining climate time",
     "nl": "Resterende klimaattijd",
-    "sv": "Återstående klimattid"
+    "sv": "Återstående luftkonditioneringstid"
   },
   "units": {
     "en": "min",
@@ -15,7 +15,7 @@
   "desc": {
     "en": "Remaining climate time in min",
     "nl": "Resterende klimaattijd in min",
-    "sv": "Återstående klimattid i min"
+    "sv": "Återstående luftkonditioneringstid i min"
   },
   "chartType": "spline",
   "decimals": 2,
