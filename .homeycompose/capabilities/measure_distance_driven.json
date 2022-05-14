@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Driven mileage",
-    "nl": "Gereden afstand"
+    "nl": "Gereden afstand",
+    "sv": "Körda miltal"
   },
   "units": {
     "en": "KM",
-    "nl": "KM"
+    "nl": "KM",
+    "sv": "KM"
   },
   "insights": true,
   "desc": {
     "en": "Driven mileage in KM",
-    "nl": "Gereden afstand in KM"
+    "nl": "Gereden afstand in KM",
+    "sv": "Körda miltal i KM"
   },
   "chartType": "spline",
   "decimals": 2,
