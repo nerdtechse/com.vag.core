@@ -3,7 +3,8 @@
   "type": "boolean",
   "title": {
     "en": "Start/Stop climatisation (V3)",
-    "nl": "Start/Stop klimatiseren (V3)"
+    "nl": "Start/Stop klimatiseren (V3)",
+    "sv": "Starta/Stoppa luftkonditioneringen (V3)"
   },
   "getable": true,
   "setable": true,
