@@ -3,16 +3,19 @@
     "type": "number",
     "title": {
       "en": "Oil change",
-      "nl": "Olie verversen"
+      "nl": "Olie verversen",
+      "sv": "Oljebyte"
     },
     "units": {
       "en": "Days",
-      "nl": "Dagen"
+      "nl": "Dagen",
+      "sv": "Dagar"
     },
     "insights": true,
     "desc": {
       "en": "Oil change in Days",
-      "nl": "Olie verversen in Dagen"
+      "nl": "Olie verversen in Dagen",
+      "sv": "Oljebyte om Dagar"
     },
     "chartType": "spline",
     "decimals": 2,
