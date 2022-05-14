@@ -3,7 +3,8 @@
   "type": "boolean",
   "title": {
     "en": "Start Flash & Honk",
-    "nl": "Start Flits & Toeteren"
+    "nl": "Start Flits & Toeteren",
+    "sv": "Starta Blinkande & Tutande"
   },
   "getable": true,
   "setable": true,
