@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Range",
-    "nl": "Actieradius"
+    "nl": "Actieradius",
+    "sv": "Räckvidd",
   },
   "units": {
     "en": "KM",
-    "nl": "KM"
+    "nl": "KM",
+    "sv": "KM"
   },
   "insights": true,
   "desc": {
     "en": "Range in KM",
-    "nl": "Actieradius in KM"
+    "nl": "Actieradius in KM",
+    "sv": "Räckvidd i KM"
   },
   "chartType": "spline",
   "decimals": 2,
