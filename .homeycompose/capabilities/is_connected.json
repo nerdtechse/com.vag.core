@@ -3,7 +3,8 @@
   "type": "boolean",
   "title": {
     "en": "Connected",
-    "nl": "Verbonden"
+    "nl": "Verbonden",
+    "sv": "Ansluten"
   },
   "getable": true,
   "setable": false,
