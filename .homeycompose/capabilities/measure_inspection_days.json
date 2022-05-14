@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Inspection",
-    "nl": "Inspectie"
+    "nl": "Inspectie",
+    "sv": "Inspektion"
   },
   "units": {
     "en": "Days",
-    "nl": "Dagen"
+    "nl": "Dagen",
+    "sv": "Dagar"
   },
   "insights": true,
   "desc": {
     "en": "Inspection in Days",
-    "nl": "Inspectie in Dagen"
+    "nl": "Inspectie in Dagen",
+    "sv": "Inspektion om Dagar"
   },
   "chartType": "spline",
   "decimals": 2,
