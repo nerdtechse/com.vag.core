@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Charge target",
-    "nl": "Laaddoel"
+    "nl": "Laaddoel", 
+    "sv": "Laddningsmål"
   },
   "units": {
     "en": "%",
-    "nl": "%"
+    "nl": "%",
+    "sv": "%"
   },
   "insights": true,
   "desc": {
     "en": "Charge target in %",
     "nl": "Laaddoel in %"
+    "sv": "Laddningsmål i %"
   },
   "chartType": "spline",
   "decimals": 2,
