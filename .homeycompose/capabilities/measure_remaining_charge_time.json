@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Remaining charge time",
-    "nl": "Resterende laadtijd"
+    "nl": "Resterende laadtijd", 
+    "sv": "Återstående laddtid"
   },
   "units": {
     "en": "min",
-    "nl": "min"
+    "nl": "min",
+    "sv": "min"
   },
   "insights": true,
   "desc": {
     "en": "Remaining charge time in min",
-    "nl": "Resterende laadtijd in min"
+    "nl": "Resterende laadtijd in min",
+    "sv": "Återstående laddtid i min"
   },
   "chartType": "spline",
   "decimals": 2,
