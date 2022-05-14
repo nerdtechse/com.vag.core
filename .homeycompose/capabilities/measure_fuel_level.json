@@ -3,16 +3,19 @@
   "type": "number",
   "title": {
     "en": "Fuel-level",
-    "nl": "Tankniveau"
+    "nl": "Tankniveau",
+    "sv": "Bränslenivå"
   },
   "units": {
     "en": "%",
-    "nl": "%"
+    "nl": "%",
+    "sv": "%"
   },
   "insights": true,
   "desc": {
     "en": "Fuel-level in %",
-    "nl": "Tankniveau in %"
+    "nl": "Tankniveau in %",
+    "sv": "Bränslenivå i %"
   },
   "chartType": "spline",
   "decimals": 2,
