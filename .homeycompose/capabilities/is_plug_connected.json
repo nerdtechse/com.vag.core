@@ -3,7 +3,8 @@
   "type": "boolean",
   "title": {
     "en": "Plug connected",
-    "nl": "Stekker verbonden"
+    "nl": "Stekker verbonden",
+    "sv": "Plug ansluten"
   },
   "getable": true,
   "setable": false,
