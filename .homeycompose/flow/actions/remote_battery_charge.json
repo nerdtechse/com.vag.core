@@ -2,11 +2,13 @@
   "id": "remote_battery_charge",
   "title": {
     "en": "Start/Stop battery charge",
-    "nl": "Start/Stop laden"
+    "nl": "Start/Stop laden",
+    "sv": "Starta/Stoppa batteri laddning"
   },
   "titleFormatted": {
     "en": "[[action_start_stop]] battery charge",
-    "nl": "[[action_start_stop]] laden"
+    "nl": "[[action_start_stop]] laden",
+    "sv": "[[action_start_stop]] batteri laddning"
   },
   "args": [
     {
@@ -14,7 +16,8 @@
       "name": "device",
       "placeholder": {
         "en": "Select device",
-        "nl": "Selecteer apparaat"
+        "nl": "Selecteer apparaat",
+        "sv": "Välj enhet"
       },
       "filter": "driver_id=audi-ev|audi-fuel|audi-hybrid|seat-fuel|seat-hybrid|skoda-ev|skoda-fuel|vw-ev|vw-fuel|vw-hybrid&capabilities=remote_battery_charge"
     },
@@ -26,14 +29,16 @@
           "id": "1",
           "label": {
             "en": "Start",
-            "nl": "Start"
+            "nl": "Start",
+            "sv": "Starta"
           }
         },
         {
           "id": "0",
           "label": {
             "en": "Stop",
-            "nl": "Stop"
+            "nl": "Stop",
+            "sv": "Stoppa"
           }
         }
       ]
