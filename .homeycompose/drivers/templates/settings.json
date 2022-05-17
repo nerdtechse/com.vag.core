@@ -101,7 +101,7 @@
           "label": {
             "en": "Setting: Window heating",
             "nl": "Instelling: Raam verwarming",
-            "sv": "Inställning: Fönstervärmare
+            "sv": "Inställning: Fönstervärmare"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
@@ -115,7 +115,7 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Force Refresh",
-            "nl": "Instelling: Geforceerd verversen"
+            "nl": "Instelling: Geforceerd verversen",
             "sv": "Inställning: Tvingad uppdatering"
           },
           "hint": {
@@ -214,7 +214,7 @@
       "label": {
         "en": "Login settings",
         "nl": "Login instellingen",
-        "sv": "Inloggnings inställningar
+        "sv": "Inloggnings inställningar"
       },
       "children": [
         {
