@@ -4,7 +4,8 @@
       "type": "group",
       "label": {
         "en": "Car options",
-        "nl": "Auto opties"
+        "nl": "Auto opties",
+        "sv": "Bil inställningar"
       },
       "children": [
         {
@@ -12,11 +13,13 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Climatisation",
-            "nl": "Instelling: Klimatiseren"
+            "nl": "Instelling: Klimatiseren",
+            "sv": "Inställning: Klimatanläggning"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
             "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": true
         },
@@ -25,11 +28,13 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Climatisation V2",
-            "nl": "Instelling: Klimatiseren V2"
+            "nl": "Instelling: Klimatiseren V2",
+            "sv": "Inställning: Klimatanläggning V2"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -38,11 +43,13 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Climatisation V3",
-            "nl": "Instelling: Klimatiseren V3"
+            "nl": "Instelling: Klimatiseren V3",
+            "sv": "Inställning: Klimatanläggning V3"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -55,7 +62,8 @@
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": true
         },
@@ -68,7 +76,8 @@
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -81,7 +90,8 @@
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -90,11 +100,13 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Window heating",
-            "nl": "Instelling: Raam verwarming"
+            "nl": "Instelling: Raam verwarming",
+            "sv": "Inställning: Fönstervärmare
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -104,10 +116,12 @@
           "label": {
             "en": "Setting: Force Refresh",
             "nl": "Instelling: Geforceerd verversen"
+            "sv": "Inställning: Tvingad uppdatering"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -116,11 +130,13 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Flash",
-            "nl": "Instelling: Flitsen"
+            "nl": "Instelling: Flitsen",
+            "sv": "Inställning: Blinka"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         },
@@ -129,11 +145,13 @@
           "type": "checkbox",
           "label": {
             "en": "Setting: Flash & Honk",
-            "nl": "Instelling: Flitsen & Toeteren"
+            "nl": "Instelling: Flitsen & Toeteren",
+            "sv": "Inställning: Blinka & Tuta"
           },
           "hint": {
             "en": "Checking this box will add the option to trigger this functionality",
-            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken"
+            "nl": "Het aanzetten van deze instelling zal de optie toevoegen om deze functionaliteit te gebruiken",
+            "sv": "Kryssa i denna ruta om du vill lägga till möjligheten att trigga denna funktionalitet"
           },
           "value": false
         }
@@ -143,7 +161,8 @@
       "type": "group",
       "label": {
         "en": "General settings",
-        "nl": "Algemene instellingen"
+        "nl": "Algemene instellingen",
+        "sv": "Generella inställningar"
       },
       "children": [
         {
@@ -151,13 +170,15 @@
           "type": "number",
           "label": {
             "en": "Update interval",
-            "nl": "Update interval"
+            "nl": "Update interval",
+            "sv": "Uppdaterings interval"
           },
           "min": 1,
           "max": 3600,
           "units": {
             "en": "minutes",
-            "nl": "minuten"
+            "nl": "minuten",
+            "sv": "minuter"
           },
           "value": 5
         }
@@ -167,7 +188,8 @@
       "type": "group",
       "label": {
         "en": "Dev settings",
-        "nl": "Dev instellingen"
+        "nl": "Dev instellingen",
+        "sv": "Dev inställningar"
       },
       "children": [
         {
@@ -175,11 +197,13 @@
           "type": "checkbox",
           "label": {
             "en": "Enable Debug",
-            "nl": "Schakel Debug in"
+            "nl": "Schakel Debug in",
+            "sv": "Aktivera debug"
           },
           "hint": {
             "en": "Checking this box will enable extra logging for the app developer ",
-            "nl": "Het aanzetten van deze instelling zal extra logs aanmaken voor de app ontwikkelaar"
+            "nl": "Het aanzetten van deze instelling zal extra logs aanmaken voor de app ontwikkelaar",
+            "sv": "Kryssa i denna ruta om du vill aktivera extra loggning till appens utvecklare"
           },
           "value": false
         }
@@ -189,7 +213,8 @@
       "type": "group",
       "label": {
         "en": "Login settings",
-        "nl": "Login instellingen"
+        "nl": "Login instellingen",
+        "sv": "Inloggnings inställningar
       },
       "children": [
         {
@@ -197,7 +222,8 @@
           "type": "text",
           "label": {
             "en": "Login",
-            "nl": "Login"
+            "nl": "Login",
+            "sv": "Login"
           },
           "value": ""
         },
@@ -206,7 +232,8 @@
           "type": "password",
           "label": {
             "en": "Password",
-            "nl": "Wachtwoord"
+            "nl": "Wachtwoord",
+            "sv": "Lösenord"
           },
           "value": ""
         },
@@ -215,7 +242,8 @@
           "type": "password",
           "label": {
             "en": "S-PIN",
-            "nl": "S-PIN"
+            "nl": "S-PIN",
+            "sv": "S-PIN"
           },
           "value": ""
         },
@@ -224,7 +252,8 @@
           "type": "label",
           "label": {
             "en": "Type",
-            "nl": "Type"
+            "nl": "Type",
+            "sv": "Typ"
           },
           "value": ""
         }
