@@ -5,11 +5,13 @@
       "options": {
         "title": {
           "en": "Select type",
-          "nl": "Selecteer type"
+          "nl": "Selecteer type",
+          "sv": "Välj typ"
         },
         "button": {
           "en": "Save & next",
           "nl": "Opslaan & volgende"
+          "sv": "Spara & fortsätt"
         }
       }
     },
@@ -19,23 +21,28 @@
       "options": {
         "usernameLabel": {
           "en": "Username",
-          "nl": "Gebruikersnaam"
+          "nl": "Gebruikersnaam",
+          "sv": "Användarnamn"
         },
         "usernamePlaceholder": {
           "en": "example: admin",
-          "nl": "bijvoorbeeld: admin"
+          "nl": "bijvoorbeeld: admin",
+          "sv": "exempel: admin"
         },
         "usernameValue": {
           "en": "admin",
-          "nl": "admin"
+          "nl": "admin",
+          "sv": "admin"
         },
         "passwordLabel": {
           "en": "Password",
-          "nl": "Wachtwoord"
+          "nl": "Wachtwoord",
+          "sv": "Lösenord"
         },
         "passwordPlaceholder": {
           "en": "Password",
-          "nl": "Wachtwoord"
+          "nl": "Wachtwoord",
+          "sv": "Lösenord"
         },
         "logo": "../../../assets/icon.svg"
       }
@@ -46,7 +53,8 @@
       "options": {
         "title": {
           "en": "Enter S-PIN:",
-          "nl": "Voer S-PIN in:"
+          "nl": "Voer S-PIN in:",
+          "sv": "Slå in S-PIN:"
         },
         "type": "number",
         "length": 4
@@ -65,7 +73,8 @@
       "options": {
         "text": {
           "en": "Getting Data from server",
-          "nl": "Data ophalen van server"
+          "nl": "Data ophalen van server",
+          "sv": "Hämtar information från server"
         }
       }
     },
