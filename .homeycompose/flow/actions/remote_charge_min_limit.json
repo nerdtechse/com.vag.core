@@ -2,11 +2,13 @@
   "id": "remote_charge_min_limit",
   "title": {
     "en": "Min. Charge limit",
-    "nl": "Min. Laad limiet"
+    "nl": "Min. Laad limiet",
+    "sv": "Min. laddnings limit"
   },
   "titleFormatted": {
     "en": "Set Min. Charge limit to [[limit]]",
-    "nl": "Stel Min. Laad limiet in op [[limit]]"
+    "nl": "Stel Min. Laad limiet in op [[limit]]",
+    "sv": "Ställ Min. laddnings limit till [[limit]]"
   },
   "args": [
     {
@@ -15,6 +17,7 @@
       "placeholder": {
         "en": "Select device",
         "nl": "Selecteer apparaat"
+        "sv": "Välj modell"
       },
       "filter": "driver_id=audi-ev|audi-hybrid|seat-hybrid|skoda-ev|vw-ev|vw-fuel|vw-hybrid&capabilities=remote_charge_min_limit"
     },
