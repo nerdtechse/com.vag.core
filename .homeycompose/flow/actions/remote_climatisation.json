@@ -3,11 +3,13 @@
     "id": "remote_climatisation",
     "title": {
       "en": "Start/Stop climatisation",
-      "nl": "Start/Stop klimatiseren"
+      "nl": "Start/Stop klimatiseren",
+      "sv": "Starta/Stoppa klimatanläggningen"
     },
     "titleFormatted": {
       "en": "[[action_start_stop]] climatisation",
-      "nl": "[[action_start_stop]] klimatiseren"
+      "nl": "[[action_start_stop]] klimatiseren",
+      "sv": "[[action_start_stop]] klimatanläggningen"
     },
     "args": [
       {
@@ -15,7 +17,8 @@
         "name": "device",
         "placeholder": {
           "en": "Select device",
-          "nl": "Selecteer apparaat"
+          "nl": "Selecteer apparaat",
+          "sv": "Välj modell"
         },
         "filter": "driver_id=audi-ev|audi-fuel|audi-hybrid|seat-fuel|seat-hybrid|skoda-ev|skoda-fuel|vw-ev|vw-fuel|vw-hybrid&capabilities=remote_climatisation"
       },
@@ -27,14 +30,16 @@
             "id": "1",
             "label": {
               "en": "Start",
-              "nl": "Start"
+              "nl": "Start",
+              "sv": "Starta"
             }
           },
           {
             "id": "0",
             "label": {
               "en": "Stop",
-              "nl": "Stop"
+              "nl": "Stop",
+              "sv": "Stoppa"
             }
           }
         ]
